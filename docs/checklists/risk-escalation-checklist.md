@@ -65,12 +65,12 @@ Identify which project milestones may be affected by this risk:
 
 | Stakeholder | Role | Notification Method | Notified? | Date |
 |-------------|------|---------------------|-----------|------|
-| | Project Manager | | [ ] Yes [ ] No | |
-| | Product Owner | | [ ] Yes [ ] No | |
-| | Technical Lead | | [ ] Yes [ ] No | |
-| | Stakeholder Liaison | | [ ] Yes [ ] No | |
-| | Executive Sponsor | | [ ] Yes [ ] No | |
-| | [Other] | | [ ] Yes [ ] No | |
+| [Name] | Project Manager | | [ ] Yes [ ] No | |
+| [Name] | Product Owner | | [ ] Yes [ ] No | |
+| [Name] | Technical Lead | | [ ] Yes [ ] No | |
+| [Name] | Stakeholder Liaison | | [ ] Yes [ ] No | |
+| [Name] | Executive Sponsor | | [ ] Yes [ ] No | |
+| [Name] | [Other Role] | | [ ] Yes [ ] No | |
 
 - [ ] All required stakeholders have been notified
 - [ ] Notification includes risk summary, impact, and recommended actions

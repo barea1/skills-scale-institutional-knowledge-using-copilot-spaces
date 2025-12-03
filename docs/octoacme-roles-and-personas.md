@@ -292,14 +292,14 @@ The Stakeholder Liaison serves as the primary point of contact between the proje
 
 This matrix maps new personas to existing core roles, showing who leads (L), supports (S), or is consulted (C) for common activities.
 
-| Activity | Project Manager | Product Owner | Developers | QA | Release Manager | Risk Champion | Technical Lead | Communication Specialist | QA Coordinator | Stakeholder Liaison |
-|----------|-----------------|---------------|------------|-----|-----------------|---------------|----------------|--------------------------|----------------|---------------------|
-| **Planning** | L | C | S | S | C | C | C | S | S | C |
-| **Release** | C | C | S | S | L | C | S | S | S | S |
-| **Risk Escalation** | L | C | S | S | C | L | C | S | C | S |
-| **Communication** | L | C | S | S | S | C | S | L | S | L |
-| **Quality Assurance** | C | C | S | L | C | C | S | S | L | S |
-| **Technical Decisions** | C | C | S | S | C | C | L | S | C | S |
+| Activity | Project Manager | Product Owner | Developers | Release Manager | Risk Champion | Technical Lead | Communication Specialist | QA Coordinator | Stakeholder Liaison |
+|----------|-----------------|---------------|------------|-----------------|---------------|----------------|--------------------------|----------------|---------------------|
+| **Planning** | L | C | S | C | C | C | S | S | C |
+| **Release** | C | C | S | L | C | S | S | S | S |
+| **Risk Escalation** | L | C | S | C | L | C | S | C | S |
+| **Communication** | L | C | S | S | C | S | L | S | L |
+| **Quality Assurance** | C | C | S | C | C | S | S | L | S |
+| **Technical Decisions** | C | C | S | C | C | L | S | C | S |
 
 **Legend:**
 - **L** = Leads the activity
