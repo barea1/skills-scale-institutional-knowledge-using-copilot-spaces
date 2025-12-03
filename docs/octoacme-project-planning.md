@@ -41,3 +41,46 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+
+---
+
+## Engaging Personas During Planning
+
+Effective planning requires input from the right personas at the right time. Use this guidance to ensure comprehensive planning coverage.
+
+### Who to Invite to Planning Ceremonies
+
+| Ceremony | Required Attendees | Optional/Consulted |
+|----------|-------------------|---------------------|
+| **Kickoff Meeting** | Project Manager, Product Owner, Technical Lead | Release Manager, Stakeholder Liaison, Risk Champion |
+| **Sprint Planning** | Project Manager, Developers, QA Coordinator | Technical Lead, Product Owner |
+| **Release Planning** | Release Manager, Project Manager, QA Coordinator | Technical Lead, Communication Specialist, Stakeholder Liaison |
+| **Risk Review** | Risk Champion, Project Manager | Technical Lead, Stakeholder Liaison |
+| **Backlog Refinement** | Product Owner, Technical Lead, Developers | QA Coordinator |
+
+### When to Consult the Risk Champion
+
+Engage the Risk Champion during planning when:
+- Introducing new features with significant technical or business risk
+- Dependencies on external teams or vendors are identified
+- Timeline is aggressive or scope is uncertain
+- Previous phases have identified unresolved risks
+- Compliance or regulatory factors are involved
+
+### When to Consult the Technical Lead
+
+Engage the Technical Lead during planning when:
+- Architectural decisions need to be made or validated
+- Technical feasibility of proposed work is uncertain
+- Significant technical debt items are being considered
+- Integration points with other systems are involved
+- Estimations for complex technical work are needed
+- Performance or scalability concerns are raised
+
+### Planning Ceremony Best Practices
+
+- Ensure all required attendees are confirmed before scheduling
+- Share the agenda and relevant documentation in advance
+- Capture decisions and action items with clear owners
+- Update the risk register with any risks identified during planning
+- Communicate planning outcomes to Stakeholder Liaison for broader distribution
